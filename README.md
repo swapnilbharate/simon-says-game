@@ -27,7 +27,7 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript.
 └── simon.js
 
 ## 🔗 Live Demo
-(Add GitHub Pages link here later)
+https://swapnilbharate.github.io/simon-says-game/
 
 ---
 
